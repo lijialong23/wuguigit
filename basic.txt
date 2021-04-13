@@ -15,3 +15,12 @@
 				<rect width='80' height='60' class='shaps' x="0" y="0"></rect>
 			</svg>
 		</div>
+
+<!-- 圆形 -->
+		<div class='thr'>
+			<svg width='200' height='200' id='fatSS'>
+				<circle cx='100' cy='100' r=100 id='myfat'></circle>
+				<rect width='20' height='20' x='90' y='90' class='myrect'></rect>
+			</svg>
+			
+		</div>
